@@ -1,0 +1,882 @@
+{
+  "thumbnail": "1280px-Big_buck_bunny_poster_big.jpg",
+  "player_background": "player_background.jpg",
+  "media_struct": {
+    "duration_rat": "9747456/15360",
+    "label": "Big Buck Bunny 4k",
+    "start_time_rat": "0",
+    "streams": {
+      "audio_2ch_und": {
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "duration": {
+          "time_base": "1/48000",
+          "ts": 30441600
+        },
+        "label": "bbb_sunflower_2160p_30fps_normal.mp4",
+        "optimum_seg_dur": {
+          "rat": "256/125",
+          "time_base": "1/48000"
+        },
+        "sources": [
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/48000"
+            },
+            "source": "BigBuckBunny_4k.audio.00001.m4a",
+            "duration": {
+              "rat": "768/25",
+              "time_base": "1/48000"
+            },
+            "timeline_end": {
+              "rat": "768/25",
+              "time_base": "1/48000"
+            },
+            "timeline_start": {
+              "rat": "0",
+              "time_base": "1/48000"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/48000"
+            },
+            "source": "BigBuckBunny_4k.audio.00002.m4a",
+            "duration": {
+              "rat": "768/25",
+              "time_base": "1/48000"
+            },
+            "timeline_end": {
+              "rat": "1536/25",
+              "time_base": "1/48000"
+            },
+            "timeline_start": {
+              "rat": "768/25",
+              "time_base": "1/48000"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/48000"
+            },
+            "source": "BigBuckBunny_4k.audio.00003.m4a",
+            "duration": {
+              "rat": "768/25",
+              "time_base": "1/48000"
+            },
+            "timeline_end": {
+              "rat": "2304/25",
+              "time_base": "1/48000"
+            },
+            "timeline_start": {
+              "rat": "1536/25",
+              "time_base": "1/48000"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/48000"
+            },
+            "source": "BigBuckBunny_4k.audio.00004.m4a",
+            "duration": {
+              "rat": "768/25",
+              "time_base": "1/48000"
+            },
+            "timeline_end": {
+              "rat": "3072/25",
+              "time_base": "1/48000"
+            },
+            "timeline_start": {
+              "rat": "2304/25",
+              "time_base": "1/48000"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/48000"
+            },
+            "source": "BigBuckBunny_4k.audio.00005.m4a",
+            "duration": {
+              "rat": "768/25",
+              "time_base": "1/48000"
+            },
+            "timeline_end": {
+              "rat": "768/5",
+              "time_base": "1/48000"
+            },
+            "timeline_start": {
+              "rat": "3072/25",
+              "time_base": "1/48000"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/48000"
+            },
+            "source": "BigBuckBunny_4k.audio.00006.m4a",
+            "duration": {
+              "rat": "768/25",
+              "time_base": "1/48000"
+            },
+            "timeline_end": {
+              "rat": "4608/25",
+              "time_base": "1/48000"
+            },
+            "timeline_start": {
+              "rat": "768/5",
+              "time_base": "1/48000"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/48000"
+            },
+            "source": "BigBuckBunny_4k.audio.00007.m4a",
+            "duration": {
+              "rat": "768/25",
+              "time_base": "1/48000"
+            },
+            "timeline_end": {
+              "rat": "5376/25",
+              "time_base": "1/48000"
+            },
+            "timeline_start": {
+              "rat": "4608/25",
+              "time_base": "1/48000"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/48000"
+            },
+            "source": "BigBuckBunny_4k.audio.00008.m4a",
+            "duration": {
+              "rat": "768/25",
+              "time_base": "1/48000"
+            },
+            "timeline_end": {
+              "rat": "6144/25",
+              "time_base": "1/48000"
+            },
+            "timeline_start": {
+              "rat": "5376/25",
+              "time_base": "1/48000"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/48000"
+            },
+            "source": "BigBuckBunny_4k.audio.00009.m4a",
+            "duration": {
+              "rat": "768/25",
+              "time_base": "1/48000"
+            },
+            "timeline_end": {
+              "rat": "6912/25",
+              "time_base": "1/48000"
+            },
+            "timeline_start": {
+              "rat": "6144/25",
+              "time_base": "1/48000"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/48000"
+            },
+            "source": "BigBuckBunny_4k.audio.00010.m4a",
+            "duration": {
+              "rat": "768/25",
+              "time_base": "1/48000"
+            },
+            "timeline_end": {
+              "rat": "1536/5",
+              "time_base": "1/48000"
+            },
+            "timeline_start": {
+              "rat": "6912/25",
+              "time_base": "1/48000"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/48000"
+            },
+            "source": "BigBuckBunny_4k.audio.00011.m4a",
+            "duration": {
+              "rat": "768/25",
+              "time_base": "1/48000"
+            },
+            "timeline_end": {
+              "rat": "8448/25",
+              "time_base": "1/48000"
+            },
+            "timeline_start": {
+              "rat": "1536/5",
+              "time_base": "1/48000"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/48000"
+            },
+            "source": "BigBuckBunny_4k.audio.00012.m4a",
+            "duration": {
+              "rat": "768/25",
+              "time_base": "1/48000"
+            },
+            "timeline_end": {
+              "rat": "9216/25",
+              "time_base": "1/48000"
+            },
+            "timeline_start": {
+              "rat": "8448/25",
+              "time_base": "1/48000"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/48000"
+            },
+            "source": "BigBuckBunny_4k.audio.00013.m4a",
+            "duration": {
+              "rat": "768/25",
+              "time_base": "1/48000"
+            },
+            "timeline_end": {
+              "rat": "9984/25",
+              "time_base": "1/48000"
+            },
+            "timeline_start": {
+              "rat": "9216/25",
+              "time_base": "1/48000"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/48000"
+            },
+            "source": "BigBuckBunny_4k.audio.00014.m4a",
+            "duration": {
+              "rat": "768/25",
+              "time_base": "1/48000"
+            },
+            "timeline_end": {
+              "rat": "10752/25",
+              "time_base": "1/48000"
+            },
+            "timeline_start": {
+              "rat": "9984/25",
+              "time_base": "1/48000"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/48000"
+            },
+            "source": "BigBuckBunny_4k.audio.00015.m4a",
+            "duration": {
+              "rat": "768/25",
+              "time_base": "1/48000"
+            },
+            "timeline_end": {
+              "rat": "2304/5",
+              "time_base": "1/48000"
+            },
+            "timeline_start": {
+              "rat": "10752/25",
+              "time_base": "1/48000"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/48000"
+            },
+            "source": "BigBuckBunny_4k.audio.00016.m4a",
+            "duration": {
+              "rat": "768/25",
+              "time_base": "1/48000"
+            },
+            "timeline_end": {
+              "rat": "12288/25",
+              "time_base": "1/48000"
+            },
+            "timeline_start": {
+              "rat": "2304/5",
+              "time_base": "1/48000"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/48000"
+            },
+            "source": "BigBuckBunny_4k.audio.00017.m4a",
+            "duration": {
+              "rat": "768/25",
+              "time_base": "1/48000"
+            },
+            "timeline_end": {
+              "rat": "13056/25",
+              "time_base": "1/48000"
+            },
+            "timeline_start": {
+              "rat": "12288/25",
+              "time_base": "1/48000"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/48000"
+            },
+            "source": "BigBuckBunny_4k.audio.00018.m4a",
+            "duration": {
+              "rat": "768/25",
+              "time_base": "1/48000"
+            },
+            "timeline_end": {
+              "rat": "13824/25",
+              "time_base": "1/48000"
+            },
+            "timeline_start": {
+              "rat": "13056/25",
+              "time_base": "1/48000"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/48000"
+            },
+            "source": "BigBuckBunny_4k.audio.00019.m4a",
+            "duration": {
+              "rat": "768/25",
+              "time_base": "1/48000"
+            },
+            "timeline_end": {
+              "rat": "14592/25",
+              "time_base": "1/48000"
+            },
+            "timeline_start": {
+              "rat": "13824/25",
+              "time_base": "1/48000"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/48000"
+            },
+            "source": "BigBuckBunny_4k.audio.00020.m4a",
+            "duration": {
+              "rat": "768/25",
+              "time_base": "1/48000"
+            },
+            "timeline_end": {
+              "rat": "3072/5",
+              "time_base": "1/48000"
+            },
+            "timeline_start": {
+              "rat": "14592/25",
+              "time_base": "1/48000"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/48000"
+            },
+            "source": "BigBuckBunny_4k.audio.00021.m4a",
+            "duration": {
+              "rat": "99/5",
+              "time_base": "1/48000"
+            },
+            "timeline_end": {
+              "rat": "3171/5",
+              "time_base": "1/48000"
+            },
+            "timeline_start": {
+              "rat": "3072/5",
+              "time_base": "1/48000"
+            }
+          }
+        ],
+        "start_time": {
+          "time_base": "1/48000",
+          "ts": 0
+        },
+        "rate": "1/48000",
+        "language": "und",
+        "time_base": "1/48000",
+        "channels": 2,
+        "bit_rate": 128701,
+        "max_mez_avg_bitrate": 129251
+      },
+      "video_3840x2160_und": {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "duration": {
+          "time_base": "1/15360",
+          "ts": 9747456
+        },
+        "label": "bbb_sunflower_2160p_30fps_normal.mp4",
+        "optimum_seg_dur": {
+          "rat": "2",
+          "time_base": "1/15360"
+        },
+        "sources": [
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/15360"
+            },
+            "source": "BigBuckBunny_4k.video.00001.mp4",
+            "duration": {
+              "rat": "30",
+              "time_base": "1/15360"
+            },
+            "timeline_end": {
+              "rat": "30",
+              "time_base": "1/15360"
+            },
+            "timeline_start": {
+              "rat": "0",
+              "time_base": "1/15360"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/15360"
+            },
+            "source": "BigBuckBunny_4k.video.00002.mp4",
+            "duration": {
+              "rat": "30",
+              "time_base": "1/15360"
+            },
+            "timeline_end": {
+              "rat": "60",
+              "time_base": "1/15360"
+            },
+            "timeline_start": {
+              "rat": "30",
+              "time_base": "1/15360"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/15360"
+            },
+            "source": "BigBuckBunny_4k.video.00003.mp4",
+            "duration": {
+              "rat": "30",
+              "time_base": "1/15360"
+            },
+            "timeline_end": {
+              "rat": "90",
+              "time_base": "1/15360"
+            },
+            "timeline_start": {
+              "rat": "60",
+              "time_base": "1/15360"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/15360"
+            },
+            "source": "BigBuckBunny_4k.video.00004.mp4",
+            "duration": {
+              "rat": "30",
+              "time_base": "1/15360"
+            },
+            "timeline_end": {
+              "rat": "120",
+              "time_base": "1/15360"
+            },
+            "timeline_start": {
+              "rat": "90",
+              "time_base": "1/15360"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/15360"
+            },
+            "source": "BigBuckBunny_4k.video.00005.mp4",
+            "duration": {
+              "rat": "30",
+              "time_base": "1/15360"
+            },
+            "timeline_end": {
+              "rat": "150",
+              "time_base": "1/15360"
+            },
+            "timeline_start": {
+              "rat": "120",
+              "time_base": "1/15360"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/15360"
+            },
+            "source": "BigBuckBunny_4k.video.00006.mp4",
+            "duration": {
+              "rat": "30",
+              "time_base": "1/15360"
+            },
+            "timeline_end": {
+              "rat": "180",
+              "time_base": "1/15360"
+            },
+            "timeline_start": {
+              "rat": "150",
+              "time_base": "1/15360"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/15360"
+            },
+            "source": "BigBuckBunny_4k.video.00007.mp4",
+            "duration": {
+              "rat": "30",
+              "time_base": "1/15360"
+            },
+            "timeline_end": {
+              "rat": "210",
+              "time_base": "1/15360"
+            },
+            "timeline_start": {
+              "rat": "180",
+              "time_base": "1/15360"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/15360"
+            },
+            "source": "BigBuckBunny_4k.video.00008.mp4",
+            "duration": {
+              "rat": "30",
+              "time_base": "1/15360"
+            },
+            "timeline_end": {
+              "rat": "240",
+              "time_base": "1/15360"
+            },
+            "timeline_start": {
+              "rat": "210",
+              "time_base": "1/15360"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/15360"
+            },
+            "source": "BigBuckBunny_4k.video.00009.mp4",
+            "duration": {
+              "rat": "30",
+              "time_base": "1/15360"
+            },
+            "timeline_end": {
+              "rat": "270",
+              "time_base": "1/15360"
+            },
+            "timeline_start": {
+              "rat": "240",
+              "time_base": "1/15360"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/15360"
+            },
+            "source": "BigBuckBunny_4k.video.00010.mp4",
+            "duration": {
+              "rat": "30",
+              "time_base": "1/15360"
+            },
+            "timeline_end": {
+              "rat": "300",
+              "time_base": "1/15360"
+            },
+            "timeline_start": {
+              "rat": "270",
+              "time_base": "1/15360"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/15360"
+            },
+            "source": "BigBuckBunny_4k.video.00011.mp4",
+            "duration": {
+              "rat": "30",
+              "time_base": "1/15360"
+            },
+            "timeline_end": {
+              "rat": "330",
+              "time_base": "1/15360"
+            },
+            "timeline_start": {
+              "rat": "300",
+              "time_base": "1/15360"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/15360"
+            },
+            "source": "BigBuckBunny_4k.video.00012.mp4",
+            "duration": {
+              "rat": "30",
+              "time_base": "1/15360"
+            },
+            "timeline_end": {
+              "rat": "360",
+              "time_base": "1/15360"
+            },
+            "timeline_start": {
+              "rat": "330",
+              "time_base": "1/15360"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/15360"
+            },
+            "source": "BigBuckBunny_4k.video.00013.mp4",
+            "duration": {
+              "rat": "30",
+              "time_base": "1/15360"
+            },
+            "timeline_end": {
+              "rat": "390",
+              "time_base": "1/15360"
+            },
+            "timeline_start": {
+              "rat": "360",
+              "time_base": "1/15360"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/15360"
+            },
+            "source": "BigBuckBunny_4k.video.00014.mp4",
+            "duration": {
+              "rat": "30",
+              "time_base": "1/15360"
+            },
+            "timeline_end": {
+              "rat": "420",
+              "time_base": "1/15360"
+            },
+            "timeline_start": {
+              "rat": "390",
+              "time_base": "1/15360"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/15360"
+            },
+            "source": "BigBuckBunny_4k.video.00015.mp4",
+            "duration": {
+              "rat": "30",
+              "time_base": "1/15360"
+            },
+            "timeline_end": {
+              "rat": "450",
+              "time_base": "1/15360"
+            },
+            "timeline_start": {
+              "rat": "420",
+              "time_base": "1/15360"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/15360"
+            },
+            "source": "BigBuckBunny_4k.video.00016.mp4",
+            "duration": {
+              "rat": "30",
+              "time_base": "1/15360"
+            },
+            "timeline_end": {
+              "rat": "480",
+              "time_base": "1/15360"
+            },
+            "timeline_start": {
+              "rat": "450",
+              "time_base": "1/15360"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/15360"
+            },
+            "source": "BigBuckBunny_4k.video.00017.mp4",
+            "duration": {
+              "rat": "30",
+              "time_base": "1/15360"
+            },
+            "timeline_end": {
+              "rat": "510",
+              "time_base": "1/15360"
+            },
+            "timeline_start": {
+              "rat": "480",
+              "time_base": "1/15360"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/15360"
+            },
+            "source": "BigBuckBunny_4k.video.00018.mp4",
+            "duration": {
+              "rat": "30",
+              "time_base": "1/15360"
+            },
+            "timeline_end": {
+              "rat": "540",
+              "time_base": "1/15360"
+            },
+            "timeline_start": {
+              "rat": "510",
+              "time_base": "1/15360"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/15360"
+            },
+            "source": "BigBuckBunny_4k.video.00019.mp4",
+            "duration": {
+              "rat": "30",
+              "time_base": "1/15360"
+            },
+            "timeline_end": {
+              "rat": "570",
+              "time_base": "1/15360"
+            },
+            "timeline_start": {
+              "rat": "540",
+              "time_base": "1/15360"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/15360"
+            },
+            "source": "BigBuckBunny_4k.video.00020.mp4",
+            "duration": {
+              "rat": "30",
+              "time_base": "1/15360"
+            },
+            "timeline_end": {
+              "rat": "600",
+              "time_base": "1/15360"
+            },
+            "timeline_start": {
+              "rat": "570",
+              "time_base": "1/15360"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/15360"
+            },
+            "source": "BigBuckBunny_4k.video.00021.mp4",
+            "duration": {
+              "rat": "30",
+              "time_base": "1/15360"
+            },
+            "timeline_end": {
+              "rat": "630",
+              "time_base": "1/15360"
+            },
+            "timeline_start": {
+              "rat": "600",
+              "time_base": "1/15360"
+            }
+          },
+          {
+            "entry_point": {
+              "rat": "0",
+              "time_base": "1/15360"
+            },
+            "source": "BigBuckBunny_4k.video.00022.mp4",
+            "duration": {
+              "rat": "23/5",
+              "time_base": "1/15360"
+            },
+            "timeline_end": {
+              "rat": "3173/5",
+              "time_base": "1/15360"
+            },
+            "timeline_start": {
+              "rat": "630",
+              "time_base": "1/15360"
+            }
+          }
+        ],
+        "start_time": {
+          "time_base": "1/15360",
+          "ts": 0
+        },
+        "rate": "30/1",
+        "language": "und",
+        "time_base": "1/15360",
+        "aspect_ratio": "3840/2160",
+        "height": 2160,
+        "width": 3840,
+        "bit_rate": 16947901,
+        "max_mez_avg_bitrate": 23677471,
+        "nb_frames": 19038
+      }
+    }
+  },
+  "mezzanine_prep_seconds": 2230.11
+}

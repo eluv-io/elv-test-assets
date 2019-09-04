@@ -1,0 +1,149 @@
+# mezzanine-maker options file
+
+output_dir = "/var/qdata/media/mezzanines/BigBuckBunny_4k"
+output_filename_start = "BigBuckBunny_4k"
+
+label = "Big Buck Bunny 4k"
+#max_mez_files = 2
+
+[content]
+name = "BigBuckBunny_4k"
+description = "A large and lovable rabbit deals with three tiny bullies, led by a flying squirrel, who are determined to squelch his happiness."
+"type" = "hq__zzFLTYEGymCUbKu1yEHaTsxjKqEV6X4cawMMEXkHeasQ2mrpzW8rR1riB86hZutwcPFgnuQCN"
+encryption_scheme = "cgck"
+
+[content.public]
+name = "BigBuckBunny_4k"
+description = "A large and lovable rabbit deals with three tiny bullies, led by a flying squirrel, who are determined to squelch his happiness."
+
+[avpackage]
+type = "mez"
+sourcepath = "."
+
+# ==========================================
+# PLAYBACK - Audio bitrates
+# ==========================================
+
+[avpackage.reps.audio.stereo]
+bitrate = 128000
+channels=2
+
+# ==========================================
+# PLAYBACK - Video resolutions and bitrates
+# ==========================================
+[avpackage.reps.video.3840x2160_17000000]
+bitrate = 17000000
+height = 2160
+width = 3840
+
+[avpackage.reps.video.1920x1080_6500000]
+bitrate = 6500000
+height = 1080
+width = 1920
+
+[avpackage.reps.video.1280x720_4500000]
+bitrate = 4500000
+height = 720
+width = 1280
+
+[avpackage.reps.video.960x540_2000000]
+bitrate = 2000000
+height = 540
+width = 960
+
+[avpackage.reps.video.768x432_1100000]
+bitrate = 1100000
+height = 432
+width = 768
+
+[avpackage.reps.video.640x360_400000]
+bitrate = 400000
+height = 360
+width = 640
+
+# ==========================================
+# MEZZANINE SPEC - Audio
+# ==========================================
+
+[audio]
+bit_rate = 128000
+segments_per_mez_file = 15
+source = "/var/qdata/media/masters/BigBuckBunny4k/bbb_sunflower_2160p_30fps_normal.mp4"
+stream_indices = [1] # <- make sure this is an array, even if only a single value
+target_segment_length = 2.03
+
+# ==========================================
+# MEZZANINE SPEC - Captions
+# ==========================================
+
+#[captions]
+#source = ""
+#stream_index = 0
+
+# ==========================================
+# MEZZANINE SPEC - Player background
+# ==========================================
+
+[player_background]
+source_type="frame"
+source = "00:00:04"
+
+# ==========================================
+# MEZZANINE SPEC - Thumbnail
+# ==========================================
+
+[thumbnail]
+source = "/var/qdata/media/masters/BigBuckBunny4k/1280px-Big_buck_bunny_poster_big.jpg"
+
+# ==========================================
+# MEZZANINE SPEC - Video
+# ==========================================
+
+[video]
+bit_rate = 17000000
+max_rate = 25500000
+buf_size = 17000000
+segments_per_mez_file = 15
+source = "/var/qdata/media/masters/BigBuckBunny4k/bbb_sunflower_2160p_30fps_normal.mp4"
+stream_index = 0
+target_segment_length = 2
+
+# video processing options
+# ---------------------------
+
+# Rescale video
+# scale="1920:1080"
+
+# Convert pixels to square aspect ratio
+# setsar=true
+
+# Deinterlace (requires also reducing frame rate)
+# pullup=true
+
+# Change frame rate
+# framerate="24000/1001"
+
+
+
+# ==========================================
+# OUTPUT OPTIONS
+# ==========================================
+
+[verbosity]
+# Print message to screen for each mez? ("Generating X mezzanine...")
+mezzanine_generation_messages = true
+
+# Create metadata.json in pretty printed format
+pretty_metadata = true
+
+
+# ==========================================
+# ADDITIONAL METADATA
+# ==========================================
+
+[parts]
+image = "1280px-Big_buck_bunny_poster_big.jpg"
+player_background = "player_background.jpg"
+
+[parts.public]
+image = "1280px-Big_buck_bunny_poster_big.jpg"
